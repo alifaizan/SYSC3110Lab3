@@ -34,7 +34,7 @@ public void setPhonenum(String phonenum) {
 	public static void main(String[] args) {
 		
 		BuddyInfo bud = new BuddyInfo("Homer","Carleton","613");
-		System.out.println("Hello " + bud.getName());
+		System.out.println("Hello, " + bud.getName());
 
 	}
 
